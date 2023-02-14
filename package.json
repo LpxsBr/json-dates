@@ -1,0 +1,18 @@
+{
+  "name": "date-json",
+  "version": "1.0.0",
+  "description": "a json api build to help application that needs of the days of week, months ... [...]",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "date",
+    "json",
+    "api",
+    "colaborate",
+    "open-source"
+  ],
+  "author": "lpxsbr",
+  "license": "MIT"
+}
