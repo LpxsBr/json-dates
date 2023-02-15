@@ -14,8 +14,19 @@ app.get('/', (req, res, next) => {
     res.json({ for_use: "host/api/week" });
 });
 
+// return the week
 app.get('/api/week', (req, res, next) => {
     res.json(week)
+})
+
+// return the day of week by parameter
+app.get('/api/week/:num', (req, res, next) => {
+    let num = req.params.num;
+    if (num < 1 || num > 7){
+        res.json({erro: "invalid param", solution: "try to use a parameter between 1 and 7"})
+    }else{
+        res.json(week.find((item) => item.num == num))
+    }
 })
 
 app.listen(port, (req, res, next) => {
