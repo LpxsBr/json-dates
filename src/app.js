@@ -1,7 +1,7 @@
 const express = require('express');
 const cors = require('cors');
 
-const { week } = require('./data');
+const week = require('./week.json');
 
 const app = express();
 
