@@ -2,36 +2,57 @@
     {
         "num": 1,
         "pt": "Domingo",
-        "pt-br": "Domingo"
+        "pt-br": "Domingo",
+        "en": "Sunday",
+        "es": "Domingo",
+        "ja": "にちようび"
     },
     {
         "num": 2,
         "pt": "Segunda feira",
-        "pt-br": "Segunda-feira"
+        "pt-br": "Segunda-feira",
+        "en": "Monday",
+        "es": "Lunes",
+        "ja":"げつようび"
     },
     {
         "num": 3,
         "pt": "Terça feira",
-        "pt-br": "Terça-feira"
+        "pt-br": "Terça-feira",
+        "en": "Tuesday",
+        "es": "Martes",
+        "ja":"かようび"
     },
     {
         "num": 4,
         "pt": "Quarta feira",
-        "pt-br": "Quarta-feira"
+        "pt-br": "Quarta-feira",
+        "en": "Wednesday",
+        "es": "Miércoles",
+        "ja":"すいようび"
     },
     {
         "num": 5,
         "pt": "Quinta feira",
-        "pt-br": "Quinta-feira"
+        "pt-br": "Quinta-feira",
+        "en": "Thursday",
+        "es": "Jueves",
+        "ja":"もくようび"
     },
     {
         "num": 6,
         "pt": "Sesta feira",
-        "pt-br": "Sexta-feira"
+        "pt-br": "Sexta-feira",
+        "en": "Friday",
+        "es": "Viernes",
+        "ja":"きんようび"
     },
     {
         "num": 7,
         "pt": "Sabado",
-        "pt-br": "Sábado"
+        "pt-br": "Sábado",
+        "en": "Saturday",
+        "es": "Sábado",
+        "ja":"どうようび"
     }
 ]
