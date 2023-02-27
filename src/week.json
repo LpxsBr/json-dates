@@ -5,7 +5,9 @@
         "pt-br": "Domingo",
         "en": "Sunday",
         "es": "Domingo",
-        "ja": "にちようび"
+        "ja": "にちようび",
+        "ru": "воскресенье",
+        "kr": "일요일"    
     },
     {
         "num": 2,
@@ -13,7 +15,9 @@
         "pt-br": "Segunda-feira",
         "en": "Monday",
         "es": "Lunes",
-        "ja":"げつようび"
+        "ja": "げつようび",
+        "ru": "понедельник",
+        "kr": "월요일"    
     },
     {
         "num": 3,
@@ -21,7 +25,9 @@
         "pt-br": "Terça-feira",
         "en": "Tuesday",
         "es": "Martes",
-        "ja":"かようび"
+        "ja": "かようび",
+        "ru": "вторник",
+        "kr": "화요일"    
     },
     {
         "num": 4,
@@ -29,7 +35,9 @@
         "pt-br": "Quarta-feira",
         "en": "Wednesday",
         "es": "Miércoles",
-        "ja":"すいようび"
+        "ja": "すいようび",
+        "ru": "среда",
+        "kr": "수요일"    
     },
     {
         "num": 5,
@@ -37,7 +45,9 @@
         "pt-br": "Quinta-feira",
         "en": "Thursday",
         "es": "Jueves",
-        "ja":"もくようび"
+        "ja": "もくようび",
+        "ru": "четверг",
+        "kr": "목요일"    
     },
     {
         "num": 6,
@@ -45,7 +55,9 @@
         "pt-br": "Sexta-feira",
         "en": "Friday",
         "es": "Viernes",
-        "ja":"きんようび"
+        "ja": "きんようび",
+        "ru": "пятница",
+        "kr": "금요일"    
     },
     {
         "num": 7,
@@ -53,6 +65,8 @@
         "pt-br": "Sábado",
         "en": "Saturday",
         "es": "Sábado",
-        "ja":"どうようび"
+        "ja": "どうようび",
+        "ru": "суббота",
+        "kr": "토요일"
     }
 ]
