@@ -21,7 +21,7 @@ https://dateinjson.vercel.app/api/week/
 select by number
 
 ```
-1 to 7
+1 to 7 or/and add the country
 ```
 
 ```
@@ -34,6 +34,15 @@ select by number
 }
 ```
 
+```
+// https://dateinjson.vercel.app/api/week/1/en
+
+{
+  "num": 1,
+  "country": "en",
+  "day": "Sunday"
+}
+```
 ---
 
 ## Tasks
@@ -43,6 +52,8 @@ select by number
 ✅ add get all route
 
 ✅ add get by param (number of day in the week)
+
+✅ add get by number of weekday and country
 
 💤 add get by local language
 
